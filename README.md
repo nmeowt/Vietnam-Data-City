@@ -10,5 +10,11 @@ git clone --depth=1 https://github.com/nmtrangg99/Vietnam-Data-City.git <project
 cd <project_name>
 npm install
 ```
+- Create database ``vietnam-city``
 
 ![image](sql.png)
+
+- Insert to database 
+```
+GET: /insert
+```
