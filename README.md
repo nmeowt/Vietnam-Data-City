@@ -16,5 +16,5 @@ npm install
 
 - Insert to database 
 ```
-GET: /insert
+GET: /api/v1/insert
 ```
