@@ -15,6 +15,13 @@ app.use(bodyParser.urlencoded({ extended: true }));
 /**
  * Primary app routes.
  */
+app.get("/", function (req, res) {
+  res.status(200).send({
+    status: 200,
+    message: 'Hello',
+  });
+})
 app.get("/insert", insertController.insertData);
+app.get("/insert-quan-huyen", insertController.insertQuanHuyen);
 
 export default app;

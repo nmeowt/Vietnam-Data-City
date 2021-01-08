@@ -14,7 +14,15 @@ npm install
 
 ![image](sql.png)
 
-- Insert to database 
+
+Typing in your url: localhost:3000/
+
+
+- Insert into database 
 ```
-GET: /api/v1/insert
+GET: /insert
+```
+- Insert only quanHuyen
+```
+GET: /insert-quan-huyen
 ```
