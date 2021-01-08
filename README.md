@@ -15,8 +15,10 @@ npm install
 ![image](sql.png)
 
 
-Typing in your url: localhost:3000/
-
+### Typing in your url:
+```
+localhost:3000/
+```
 
 - Insert into database 
 ```
