@@ -1,6 +1,8 @@
 # Provinces of Vietnam
 
 # Getting started
+- Install [Node.js](https://nodejs.org/en/download/)
+
 - Clone the repository
 ```
 git clone --depth=1 https://github.com/nmtrangg99/Vietnam-Data-City.git <project_name>
